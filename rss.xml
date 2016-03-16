@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scrambled Signal Productions]]></title>
         <description><![CDATA[Scrambled Signal Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scrambled-signal-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 05:07:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 02:47:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scrambled-signal-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c8a9099-864b-45d7-8b61-decd1c666357.jpg">]]></description>
+            <link>https://thegrid.ai/scrambled-signal-productions/current-projects/index.html</link>
+            <guid isPermaLink="false">e1ec69ed-edfc-4276-8ce9-8fb463a1f975</guid>
+            <pubDate>Wed, 16 Mar 2016 02:46:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Current Projects</p>]]></description>
-            <link>undefined4fca0f80-1def-49c6-aee8-c529d87a9ba2/index.html</link>
+            <link>https://thegrid.ai/scrambled-signal-productions/4fca0f80-1def-49c6-aee8-c529d87a9ba2/index.html</link>
             <guid isPermaLink="false">4fca0f80-1def-49c6-aee8-c529d87a9ba2</guid>
             <pubDate>Mon, 07 Mar 2016 05:06:09 GMT</pubDate>
         </item>
